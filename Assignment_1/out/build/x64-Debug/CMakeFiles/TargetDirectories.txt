@@ -1,0 +1,5 @@
+C:/Users/lesle/OneDrive/Documenten/Study courses/Software Science/MIT Effective programming in C and C++/Assignment_1/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+C:/Users/lesle/OneDrive/Documenten/Study courses/Software Science/MIT Effective programming in C and C++/Assignment_1/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/lesle/OneDrive/Documenten/Study courses/Software Science/MIT Effective programming in C and C++/Assignment_1/out/build/x64-Debug/Problem_1_Floating_Point/CMakeFiles/Problem_1_Floating_Point.dir
+C:/Users/lesle/OneDrive/Documenten/Study courses/Software Science/MIT Effective programming in C and C++/Assignment_1/out/build/x64-Debug/Problem_1_Floating_Point/CMakeFiles/edit_cache.dir
+C:/Users/lesle/OneDrive/Documenten/Study courses/Software Science/MIT Effective programming in C and C++/Assignment_1/out/build/x64-Debug/Problem_1_Floating_Point/CMakeFiles/rebuild_cache.dir
