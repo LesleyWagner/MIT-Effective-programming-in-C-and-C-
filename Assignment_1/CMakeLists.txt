@@ -7,3 +7,5 @@ project ("Assignment_1")
 
 # Include sub-projects.
 add_subdirectory ("Problem_1_Floating_Point")
+
+add_subdirectory("Problem_2_Matrix_Multiplication")

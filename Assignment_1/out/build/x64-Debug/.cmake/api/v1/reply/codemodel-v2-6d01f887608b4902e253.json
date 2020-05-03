@@ -8,7 +8,8 @@
 					"build" : ".",
 					"childIndexes" : 
 					[
-						1
+						1,
+						2
 					],
 					"minimumCMakeVersion" : 
 					{
@@ -30,6 +31,20 @@
 					[
 						0
 					]
+				},
+				{
+					"build" : "Problem_2_Matrix_Multiplication",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.8"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "Problem_2_Matrix_Multiplication",
+					"targetIndexes" : 
+					[
+						1
+					]
 				}
 			],
 			"name" : "Debug",
@@ -39,12 +54,14 @@
 					"directoryIndexes" : 
 					[
 						0,
-						1
+						1,
+						2
 					],
 					"name" : "Assignment_1",
 					"targetIndexes" : 
 					[
-						0
+						0,
+						1
 					]
 				}
 			],
@@ -53,8 +70,15 @@
 				{
 					"directoryIndex" : 1,
 					"id" : "Problem_1_Floating_Point::@1d20d2d76c68c4414592",
-					"jsonFile" : "target-Problem_1_Floating_Point-Debug-e21bff7602fa1854ae37.json",
+					"jsonFile" : "target-Problem_1_Floating_Point-Debug-98e2b8acb3bd1301c6d2.json",
 					"name" : "Problem_1_Floating_Point",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "Problem_2_Matrix_Multiplication::@55e98ae870d647eb425f",
+					"jsonFile" : "target-Problem_2_Matrix_Multiplication-Debug-fb2f2e78c48dba25c4ce.json",
+					"name" : "Problem_2_Matrix_Multiplication",
 					"projectIndex" : 0
 				}
 			]
@@ -63,8 +87,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "C:/Users/lesle/OneDrive/Documenten/Study courses/Software Science/MIT Effective programming in C and C++/Assignment_1/Assignment_1/out/build/x64-Debug",
-		"source" : "C:/Users/lesle/OneDrive/Documenten/Study courses/Software Science/MIT Effective programming in C and C++/Assignment_1/Assignment_1"
+		"build" : "C:/Users/lesle/OneDrive/Documenten/Study courses/Software Science/MIT Effective programming in C and C++/Assignment_1/out/build/x64-Debug",
+		"source" : "C:/Users/lesle/OneDrive/Documenten/Study courses/Software Science/MIT Effective programming in C and C++/Assignment_1"
 	},
 	"version" : 
 	{

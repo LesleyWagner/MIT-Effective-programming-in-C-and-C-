@@ -122,6 +122,9 @@
 		},
 		{
 			"path" : "Problem_1_Floating_Point/CMakeLists.txt"
+		},
+		{
+			"path" : "Problem_2_Matrix_Multiplication/CMakeLists.txt"
 		}
 	],
 	"kind" : "cmakeFiles",

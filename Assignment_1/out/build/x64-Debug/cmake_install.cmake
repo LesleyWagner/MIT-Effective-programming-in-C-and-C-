@@ -35,6 +35,7 @@ endif()
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
   include("C:/Users/lesle/OneDrive/Documenten/Study courses/Software Science/MIT Effective programming in C and C++/Assignment_1/out/build/x64-Debug/Problem_1_Floating_Point/cmake_install.cmake")
+  include("C:/Users/lesle/OneDrive/Documenten/Study courses/Software Science/MIT Effective programming in C and C++/Assignment_1/out/build/x64-Debug/Problem_2_Matrix_Multiplication/cmake_install.cmake")
 
 endif()
 

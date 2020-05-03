@@ -11,7 +11,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/lesle/OneDrive/Documenten/Study courses/Software Science/MIT Effective programming in C and C++/Assignment_1/Assignment_1/out/build/x64-Debug"
+			"value" : "C:/Users/lesle/OneDrive/Documenten/Study courses/Software Science/MIT Effective programming in C and C++/Assignment_1/out/build/x64-Debug"
 		},
 		{
 			"name" : "Assignment_1_SOURCE_DIR",
@@ -23,7 +23,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/lesle/OneDrive/Documenten/Study courses/Software Science/MIT Effective programming in C and C++/Assignment_1/Assignment_1"
+			"value" : "C:/Users/lesle/OneDrive/Documenten/Study courses/Software Science/MIT Effective programming in C and C++/Assignment_1"
 		},
 		{
 			"name" : "CMAKE_BUILD_TYPE",
@@ -47,7 +47,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "c:/Users/lesle/OneDrive/Documenten/Study courses/Software Science/MIT Effective programming in C and C++/Assignment_1/Assignment_1/out/build/x64-Debug"
+			"value" : "c:/Users/lesle/OneDrive/Documenten/Study courses/Software Science/MIT Effective programming in C and C++/Assignment_1/out/build/x64-Debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -523,7 +523,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "C:/Users/lesle/OneDrive/Documenten/Study courses/Software Science/MIT Effective programming in C and C++/Assignment_1/Assignment_1"
+			"value" : "C:/Users/lesle/OneDrive/Documenten/Study courses/Software Science/MIT Effective programming in C and C++/Assignment_1"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -535,7 +535,7 @@
 				}
 			],
 			"type" : "PATH",
-			"value" : "C:/Users/lesle/OneDrive/Documenten/Study courses/Software Science/MIT Effective programming in C and C++/Assignment_1/Assignment_1/out/install/x64-Debug"
+			"value" : "C:/Users/lesle/OneDrive/Documenten/Study courses/Software Science/MIT Effective programming in C and C++/Assignment_1/out/install/x64-Debug"
 		},
 		{
 			"name" : "CMAKE_LINKER",
@@ -671,7 +671,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "2"
+			"value" : "3"
 		},
 		{
 			"name" : "CMAKE_PLATFORM_INFO_INITIALIZED",
